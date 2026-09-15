@@ -2,7 +2,7 @@
 
 Turn your notes from a customer call into two things you can actually use: an internal account note, and a follow-up email you can send.
 
-[Live demo](PASTE-YOUR-LIVE-LINK-HERE)
+[Live demo](https://safisiddiqui.github.io/wrap-call-recap/)
 
 ## Why
 
